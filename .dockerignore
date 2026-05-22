@@ -1,0 +1,5 @@
+/target
+/.git
+*.md
+**/*.rs.bk
+data/
